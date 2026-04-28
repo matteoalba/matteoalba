@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="[https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&width=435&lines=root%40matteoalba:~%24+whoami;MSc+Cybersecurity+Student;White+Hat+In+Training](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&width=435&lines=root%40matteoalba:~%24+whoami;MSc+Cybersecurity+Student;White+Hat+In+Training)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF00&width=435&lines=root%40matteoalba:~%24+whoami;MSc+Cybersecurity+Student;White+Hat+In+Training" alt="Typing SVG" />
 </h1>
 
 ### <code>> BSc in building things, MSc in making them unbreakable 🔒</code>
